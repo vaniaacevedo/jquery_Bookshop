@@ -1,0 +1,22 @@
+{
+  "name": "jquery_bookshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaniaacevedo/jquery_Bookshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaniaacevedo/jquery_Bookshop/issues"
+  },
+  "homepage": "https://github.com/vaniaacevedo/jquery_Bookshop#readme",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
